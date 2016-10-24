@@ -1,0 +1,24 @@
+Story mode 1:
+Main user (Connie)
+Login to Facebook:
+Leverage the https://developers.facebook.com/docs/graph-api
+User -> User Context -> Friends
+Target located as most discussed friend (Sarah)
+Target's friend located most discussed friend of target (DJ)
+Connie is presented with story that Target (Sarah) has gone missing at location
+Location = Sarah && Connie's most used location (Starbucks)
+Sarah's wall posts that she is meeting DJ in secret to talk
+Connie in Game mode is at Location must find clues, talk to NPCs
+Sarah's favorite Object is located
+Clue = a napkin with some writing and some numbers
+Police are called by Connie notifying them that Sarah's is missing
+Police show up, tell Connie to remain home and they will look for Sarah
+Connie goes home.  Gets text from DJ that Sarah is fine and with her (on Connie's actual phone).
+Connie tries to call number, no return number to call
+Connie is texted to meet them without police at near by park
+Connie goes to park
+Sees another Object of Sarah's (item or picture, etc)
+Connie gets another text from DJ that Sarah does not want to see her anymore and they are leaving forever
+Connie must find Sarah in time or Sarah dies
+Connie contacts Friend 2 for help
+Friend 2 is contacted by the game to join in.
